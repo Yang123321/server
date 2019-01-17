@@ -1,0 +1,7 @@
+.stack-work/
+maze.cabal
+data/font
+data/picture
+data/test
+maze-exe
+*~
